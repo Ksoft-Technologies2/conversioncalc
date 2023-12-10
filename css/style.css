@@ -1,0 +1,11 @@
+.selectOptions{
+    width: 30rem;
+    height: 4vh;
+}
+.inputText{
+    height: 10vh;
+}
+.conv{
+    display: flex;
+    gap: 1rem;
+}
